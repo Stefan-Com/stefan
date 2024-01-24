@@ -3,8 +3,8 @@ package lib
 import "fmt"
 
 const (
-	color = "yello"
-	age   = 40
+	Color = "yello"
+	Age   = 40
 )
 
 // Will return Hello + the name parameter
