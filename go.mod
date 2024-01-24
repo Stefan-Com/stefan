@@ -1,3 +1,3 @@
-module github.com/Stefan-Com/git-testing-repo/stefan
+module github.com/Stefan-Com/stefan
 
 go 1.21.6
