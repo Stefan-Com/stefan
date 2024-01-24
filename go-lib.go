@@ -5,6 +5,7 @@ import "fmt"
 const (
 	Color = "yello"
 	Age   = 40
+	Sex   = true
 )
 
 // Will return Hello + the given name
