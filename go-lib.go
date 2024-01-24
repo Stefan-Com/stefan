@@ -7,7 +7,7 @@ const (
 	Age   = 40
 )
 
-// Will return Hello + the name parameter
+// Will return Hello + the given name
 func GetHelloMsg(name string) string {
 	return fmt.Sprintf("Hello %v!", name)
 }
