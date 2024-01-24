@@ -1,4 +1,4 @@
-package stefan_golang_library
+package lib
 
 import "fmt"
 
