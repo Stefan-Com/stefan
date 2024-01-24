@@ -3,9 +3,10 @@ package stefan
 import "fmt"
 
 const (
-	Color = "yello"
-	Age   = 40
-	Sex   = true
+	Color    = "yello"
+	Age      = 40
+	Sex      = true
+	Children = 10
 )
 
 // Will return Hello + the given name
